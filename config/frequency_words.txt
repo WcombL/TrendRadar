@@ -14,9 +14,11 @@ google
 gemini
 deepmind
 
-同济医院
-湖北省妇幼保健院
 
 DeepSeek
-梁文锋
 
+社会新闻
+军事
+政治
+外交
+民生
